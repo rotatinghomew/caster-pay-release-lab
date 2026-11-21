@@ -1,0 +1,13 @@
+person,period,public_group,new_group,seniority,lower,upper
+p01,u1,N,N,entry,10,60
+p02,u1,N,N,senior,10,60
+p03,u1,N,S,senior,10,60
+p04,u1,S,N,entry,10,60
+p05,u1,S,S,senior,10,60
+p06,u1,S,S,entry,10,60
+p01,u2,N,N,entry,10,70
+p02,u2,N,N,senior,10,70
+p03,u2,N,S,senior,10,70
+p04,u2,S,N,entry,10,70
+p05,u2,S,S,senior,10,70
+p06,u2,S,S,entry,10,70

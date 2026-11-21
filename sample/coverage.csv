@@ -1,0 +1,6 @@
+period,new_group,complete,known_seq
+u1,N,1,1
+u1,S,1,1
+u2,S,1,2
+u2,N,0,2
+u2,N,1,4

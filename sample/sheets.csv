@@ -1,0 +1,9 @@
+row_id,batch,audience,state,period,dimension,group,seniority,count,min_sum,max_sum
+a1,hist,public,prior,u1,public_group,N,*,3,81,81
+a2,hist,public,prior,u1,public_group,S,*,3,70,70
+a3,hist,workgroup,prior,u1,new_group,S,*,3,72,72
+a4,hist,workgroup,void,u1,new_group,N,entry,2,43,43
+b1,update,public,preview,u1,new_group,N,*,?,?,?
+b2,update,public,preview,u1,new_group,S,*,?,?,?
+b3,update,workgroup,preview,u1,new_group,S,senior,?,?,?
+b4,update,workgroup,preview,u2,new_group,N,*,?,?,?

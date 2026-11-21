@@ -1,0 +1,49 @@
+{
+  "roster": {
+    "person": "str",
+    "period": "str",
+    "public_group": "str",
+    "new_group": "str",
+    "seniority": "str",
+    "lower": "int",
+    "upper": "int"
+  },
+  "pay": {
+    "id": "str",
+    "person": "str",
+    "period": "str",
+    "assignment": "str",
+    "known_seq": "int",
+    "amount": "str"
+  },
+  "coverage": {
+    "period": "str",
+    "new_group": "str",
+    "complete": "bool",
+    "known_seq": "int"
+  },
+  "rules": {
+    "audience": "str",
+    "minimum_count": "int",
+    "minimum_width": "int"
+  },
+  "sheets": {
+    "row_id": "str",
+    "batch": "str",
+    "audience": "str",
+    "state": "str",
+    "period": "str",
+    "dimension": "str",
+    "group": "str",
+    "seniority": "str",
+    "count": "str",
+    "min_sum": "str",
+    "max_sum": "str"
+  },
+  "requests": {
+    "id": "str",
+    "sheet": "str",
+    "priority": "int",
+    "max_width": "int"
+  }
+}

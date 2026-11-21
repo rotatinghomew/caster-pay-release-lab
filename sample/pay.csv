@@ -1,0 +1,16 @@
+id,person,period,assignment,known_seq,amount
+t1,p01,u1,host,1,18
+t2,p02,u1,sports,1,36
+t3,p03,u1,desk,1,27
+t4,p04,u1,live,1,25
+t5,p05,u1,live,1,29
+t6,p06,u1,desk,1,16
+t7,p01,u2,host,2,26
+t8,p01,u2,desk,2,11
+t9,p02,u2,host,2,39
+t10,p03,u2,desk,2,32
+t11,p04,u2,live,2,?
+t12,p05,u2,live,2,32
+t13,p06,u2,sports,2,18
+t14,p02,u2,host,3,-6
+t15,p04,u2,live,4,24
